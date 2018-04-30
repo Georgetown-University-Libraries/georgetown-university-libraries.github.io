@@ -20,7 +20,7 @@
 [5.8](https://github.com/DSpace/DSpace/pulls?utf8=%E2%9C%93&q=is%3Amerged+is%3Apr+author%3Aterrywbrady+milestone%3A5.8+), 
 [5.7](https://github.com/DSpace/DSpace/pulls?utf8=%E2%9C%93&q=is%3Amerged+is%3Apr+author%3Aterrywbrady+milestone%3A5.7+), 
 [5x](https://github.com/DSpace/DSpace/pulls?utf8=%E2%9C%93&q=is%3Amerged+is%3Apr+author%3Aterrywbrady+milestone:5.0-feature-freeze), 
-[4x]https://github.com/DSpace/DSpace/pulls?utf8=%E2%9C%93&q=is%3Amerged+is%3Apr+author%3Aterrywbrady+milestone:4.0-feature-freeze)
+[4x](https://github.com/DSpace/DSpace/pulls?utf8=%E2%9C%93&q=is%3Amerged+is%3Apr+author%3Aterrywbrady+milestone:4.0-feature-freeze)
 - DSpace Contributions, Marttila: 
 [6.0](https://github.com/DSpace/DSpace/pulls?utf8=%E2%9C%93&q=is%3Amerged+is%3Apr+author%3Amjmarttila+milestone%3A6.0+) 
 
