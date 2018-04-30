@@ -1,5 +1,5 @@
 ## Georgetown University Library Information Technology
-
+![LibraryIT Logo](LIT-logo.png)
 * [Our website](http://www.library.georgetown.edu/lit/code)
 * [Our GitHub Repositories](https://github.com/Georgetown-University-Libraries/georgetown-university-libraries.github.io)
 * [Our YouTube Channel](https://www.youtube.com/playlist?list=PLqP8OmiY4pxGIlEdnpkeJcA4JQ9VomDLP)
@@ -44,8 +44,8 @@
 
 ### Digitization Tools Projects
 
-* [FileAnalyzer and Metadata Harvester](http://georgetown-university-libraries.github.io/File-Analyzer/)
-* [FileAnalyzer Test Data](https://github.com/Georgetown-University-Libraries/File-Analyzer-Test-Data)
+- [FileAnalyzer and Metadata Harvester](http://georgetown-university-libraries.github.io/File-Analyzer/)
+- [FileAnalyzer Test Data](https://github.com/Georgetown-University-Libraries/File-Analyzer-Test-Data)
 
 ### ArchivesSpace Projects 
 
@@ -58,20 +58,20 @@ The Georgetown University Library provides access to archival resources (coming 
 
 Customizations built on the [Sierra](https://www.iii.com/products/sierra) integrated library system
 - [Barcode Scan Inventory](https://github.com/Georgetown-University-Libraries/BarcodeInventory)
-* [Export Records Via Sierra API](http://georgetown-university-libraries.github.io/GUExtractSierraBibs/)
-* [Compare User Permissions in Sierra](https://github.com/Georgetown-University-Libraries/Georgetown-University-Libraries-Code/releases/tag/v1.0.4)
+- [Export Records Via Sierra API](http://georgetown-university-libraries.github.io/GUExtractSierraBibs/)
+- [Compare User Permissions in Sierra](https://github.com/Georgetown-University-Libraries/Georgetown-University-Libraries-Code/releases/tag/v1.0.4)
 
 Customizations built on the [Summon](http://www.proquest.com/products-services/The-Summon-Service.html) discovery layer
-* [Customize and Group Summon Results](https://github.com/Georgetown-University-Libraries/SummonCustomization)
+- [Customize and Group Summon Results](https://github.com/Georgetown-University-Libraries/SummonCustomization)
 
 Customizations built on the [360 Link Resolver](http://www.proquest.com/products-services/management-solutions/360-Core.html)
-* [Guide A Researcher through 360 Link Results - Screenshots Only](https://github.com/Georgetown-University-Libraries/Georgetown-University-Libraries-Code/releases/tag/v1.0.10)
+- [Guide A Researcher through 360 Link Results - Screenshots Only](https://github.com/Georgetown-University-Libraries/Georgetown-University-Libraries-Code/releases/tag/v1.0.10)
 
 ### Drupal Projects
 
 The [Georgetown University Library Website](http://www.library.georgetown.edu/) is built on [Drupal](https://www.drupal.org/).
 
-* [Federated Search of Library Resources for Drupal](http://georgetown-university-libraries.github.io/gusuper/)
+- [Federated Search of Library Resources for Drupal](http://georgetown-university-libraries.github.io/gusuper/)
 
 ### Google Apps/Google Sheets Extensions
 - [Upload a CSV to Google Sheets](https://github.com/Georgetown-University-Libraries/PlainTextCSV_GoogleAppsScript)
