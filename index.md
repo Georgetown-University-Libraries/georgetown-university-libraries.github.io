@@ -26,21 +26,21 @@
 
 #### DSpace Related Features
 - DSpace/IIIF Integration
-  - IIIF Viewer integrated into DigitalGeorgetown
-  - Integrating UniversalViewer into DSpace Mirage2 Theme
-  - Generating IIIF Manifests with File Analyzer
+  - [IIIF Viewer integrated into DigitalGeorgetown](https://repository.library.georgetown.edu/handle/10822/1044538#?m=7)
+  - [Integrating UniversalViewer into DSpace Mirage2 Theme](https://gist.github.com/terrywbrady/29006fadfd94fb0e47ba29b9d29cd738)
+  - [Generating IIIF Manifests with File Analyzer](https://github.com/Georgetown-University-Libraries/File-Analyzer-Test-Data/blob/master/iiif/README.md)
 - Repository Manager Tools
-  - DSpace 6 REST Reporting Tools for Repository Managers(https://wiki.duraspace.org/display/DSPACE/REST+Based+Quality+Control+Reports)
-  - Batch Automation Tools for Repository Managers - PHP(http://georgetown-university-libraries.github.io/batch-tools/)
+  - [DSpace 6 REST Reporting Tools for Repository Managers](https://wiki.duraspace.org/display/DSPACE/REST+Based+Quality+Control+Reports)
+  - [Batch Automation Tools for Repository Managers - PHP](http://georgetown-university-libraries.github.io/batch-tools/)
 - DSpace Development Support
-  - Webinar: Making DSpace Your Own
-  - Running DSpace on Codenvy
-  - Running DSpace with Docker
+  - [Webinar: Making DSpace Your Own](https://gitpitch.com/DSpace-Labs/DSpace-rel-demo/webinar)
+  - [Running DSpace on Codenvy](https://github.com/DSpace-Labs/DSpace-codenvy/blob/master/README.md)
+  - [Running DSpace with Docker](https://github.com/DSpace-Labs/DSpace-Docker-Images/blob/master/tutorial.md)
 - Older Contributions
-  - ImageMagick Generated Thumbnails(https://wiki.duraspace.org/display/DSDOC5x/ImageMagick+Media+Filters)
-  - FlexPaper Based Document Viewer(https://wiki.duraspace.org/display/DSPACE/FlexPaper+Document+Viewer+for+XMLUI)
-  - Metadata Validation Curation Tasks(https://github.com/DSpace-Labs/ctask/tree/master/metadata)
-  - Integrating Blackboard LMS with DSpace - Screenshots Only(https://github.com/Georgetown-University-Libraries/Georgetown-University-Libraries-Code/releases/tag/v1.0.7)
+  - [ImageMagick Generated Thumbnails](https://wiki.duraspace.org/display/DSDOC5x/ImageMagick+Media+Filters)
+  - [FlexPaper Based Document Viewer](https://wiki.duraspace.org/display/DSPACE/FlexPaper+Document+Viewer+for+XMLUI)
+  - [Metadata Validation Curation Tasks](https://github.com/DSpace-Labs/ctask/tree/master/metadata)
+  - [Integrating Blackboard LMS with DSpace - Screenshots Only](https://github.com/Georgetown-University-Libraries/Georgetown-University-Libraries-Code/releases/tag/v1.0.7)
 
 ### Digitization Tools Projects
 
