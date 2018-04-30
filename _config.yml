@@ -2,7 +2,7 @@ title: Georgetown-university-libraries.GitHub.io
 description: Code created by Georgetown University Library Information Technology
 google_analytics: UA-397597-14
 show_downloads: true
-theme: jekyll-theme-cayman
+theme: jekyll-theme-tactile
 
 gems:
   - jekyll-mentions
