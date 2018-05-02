@@ -28,7 +28,7 @@
 - DSpace/IIIF Integration
   - [IIIF Viewer integrated into DigitalGeorgetown](https://repository.library.georgetown.edu/handle/10822/1044538#?m=7)
   - [Integrating UniversalViewer into DSpace Mirage2 Theme](https://gist.github.com/terrywbrady/29006fadfd94fb0e47ba29b9d29cd738)
-  - [Generating IIIF Manifests with File Analyzer](https://github.com/Georgetown-University-Libraries/File-Analyzer-Test-Data/blob/master/iiif/README.md)
+  - [Generating IIIF Manifests with File Analyzer](http://georgetown-university-libraries.github.io/File-Analyzer-Test-Data/iiif/)
 - Repository Manager Tools
   - [DSpace 6 REST Reporting Tools for Repository Managers](https://wiki.duraspace.org/display/DSPACE/REST+Based+Quality+Control+Reports)
   - [Batch Automation Tools for Repository Managers - PHP](http://georgetown-university-libraries.github.io/batch-tools/)
