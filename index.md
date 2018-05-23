@@ -55,6 +55,9 @@ The Georgetown University Library provides access to archival resources (coming 
 - [Georgetown University Branding for ArchivesSpace](https://github.com/Georgetown-University-Libraries/GUArchivesSpace)
 - [Command Line Tool to Export ArchivesSpace Objects](https://github.com/Georgetown-University-Libraries/ASObjectExport)
 
+### Academic Preservation Trust Projects
+- [APTrust Bag Creator in File Analyzer](https://github.com/Georgetown-University-Libraries/File-Analyzer/wiki/Bagit-automation-for-Academic-Preservation-Trust-(APTrust))
+
 ### ILS and Discovery Projects - Extensions to commercial library applications
 
 Customizations built on the [Sierra](https://www.iii.com/products/sierra) integrated library system
