@@ -11,19 +11,8 @@
 [DigitalGeorgetown](https://repository.library.georgetown.edu/) is an institutional repository built on the [DSpace](http://dspace.org/) platform.
 
 #### DSpace Contributions
-- DSpace Contributions, Brady: 
-[7.0](https://github.com/DSpace/DSpace/pulls?utf8=%E2%9C%93&q=is%3Amerged+is%3Apr+author%3Aterrywbrady+milestone%3A7.0+), 
-[6.3](https://github.com/DSpace/DSpace/pulls?utf8=%E2%9C%93&q=is%3Amerged+is%3Apr+author%3Aterrywbrady+milestone%3A6.3+), 
-[6.2](https://github.com/DSpace/DSpace/pulls?utf8=%E2%9C%93&q=is%3Amerged+is%3Apr+author%3Aterrywbrady+milestone%3A6.2+), 
-[6.1](https://github.com/DSpace/DSpace/pulls?utf8=%E2%9C%93&q=is%3Amerged+is%3Apr+author%3Aterrywbrady+milestone%3A6.1+), 
-[6.0](https://github.com/DSpace/DSpace/pulls?utf8=%E2%9C%93&q=is%3Amerged+is%3Apr+author%3Aterrywbrady+milestone%3A6.0+), 
-[5.8](https://github.com/DSpace/DSpace/pulls?utf8=%E2%9C%93&q=is%3Amerged+is%3Apr+author%3Aterrywbrady+milestone%3A5.8+), 
-[5.7](https://github.com/DSpace/DSpace/pulls?utf8=%E2%9C%93&q=is%3Amerged+is%3Apr+author%3Aterrywbrady+milestone%3A5.7+), 
-[5x](https://github.com/DSpace/DSpace/pulls?utf8=%E2%9C%93&q=is%3Amerged+is%3Apr+author%3Aterrywbrady+milestone:5.0-feature-freeze), 
-[4x](https://github.com/DSpace/DSpace/pulls?utf8=%E2%9C%93&q=is%3Amerged+is%3Apr+author%3Aterrywbrady+milestone:4.0-feature-freeze)
-- DSpace Contributions, Marttila: 
-[7.0 UI](https://github.com/DSpace/dspace-angular/pulls?utf8=%E2%9C%93&q=is%3Amerged+is%3Apr+author%3Amjmarttila), 
-[6.0](https://github.com/DSpace/DSpace/pulls?utf8=%E2%9C%93&q=is%3Amerged+is%3Apr+author%3Amjmarttila+milestone%3A6.0+) 
+- DSpace Contributions, [Brady](https://github.com/DSpace/DSpace/pulls?utf8=%E2%9C%93&q=is%3Amerged+is%3Apr+author%3Aterrywbrady+user%3ADSpace+) 
+- DSpace Contributions, [Brady](https://github.com/DSpace/DSpace/pulls?utf8=%E2%9C%93&q=is%3Amerged+is%3Apr+author%3Amjmarttila+user%3ADSpace+) 
 
 #### DSpace Related Features
 - DSpace/IIIF Integration
