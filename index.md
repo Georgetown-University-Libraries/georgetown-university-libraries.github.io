@@ -11,8 +11,8 @@
 [DigitalGeorgetown](https://repository.library.georgetown.edu/) is an institutional repository built on the [DSpace](http://dspace.org/) platform.
 
 #### DSpace Contributions
-- DSpace Contributions, [Brady](https://github.com/DSpace/DSpace/pulls?utf8=%E2%9C%93&q=is%3Amerged+is%3Apr+author%3Aterrywbrady+user%3ADSpace+) 
-- DSpace Contributions, [Marttila](https://github.com/DSpace/DSpace/pulls?utf8=%E2%9C%93&q=is%3Amerged+is%3Apr+author%3Amjmarttila+user%3ADSpace+) 
+- DSpace Contributions, Brady: [DSpace](https://github.com/DSpace/DSpace/pulls?utf8=%E2%9C%93&q=is%3Amerged+is%3Apr+author%3Aterrywbrady+user%3ADSpace+), [DSpace Angular](https://github.com/DSpace/DSpace-angular/pulls?utf8=%E2%9C%93&q=is%3Amerged+is%3Apr+author%3Aterrywbrady+user%3ADSpace+) 
+- DSpace Contributions, Marttila: [DSpace](https://github.com/DSpace/DSpace/pulls?utf8=%E2%9C%93&q=is%3Amerged+is%3Apr+author%3Amjmarttila+user%3ADSpace+), [DSpace Angular](https://github.com/DSpace/DSpace-angular/pulls?utf8=%E2%9C%93&q=is%3Amerged+is%3Apr+author%3Amjmarttila+user%3ADSpace+)  
 
 #### DSpace Related Features
 - DSpace/IIIF Integration
