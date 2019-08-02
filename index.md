@@ -36,6 +36,10 @@ When possible, we offer our solutions back to the library technology community.
   - [Metadata Validation Curation Tasks](https://github.com/DSpace-Labs/ctask/tree/master/metadata)
   - [Integrating Blackboard LMS with DSpace - Screenshots Only](https://github.com/Georgetown-University-Libraries/Georgetown-University-Libraries-Code/releases/tag/v1.0.7)
 
+### Digital Humanities Projects
+- [Family Tree Visualization Prototype](https://github.com/Georgetown-University-Libraries/family-tree-viz)
+  - [Multi-generation Visualization](https://georgetown-university-libraries.github.io/family-tree-viz/svg/?doc=../data2.csv#44)
+
 ### Digitization Tools Projects
 
 - [FileAnalyzer and Metadata Harvester](http://georgetown-university-libraries.github.io/File-Analyzer/)
