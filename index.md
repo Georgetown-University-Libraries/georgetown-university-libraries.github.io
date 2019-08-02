@@ -1,5 +1,10 @@
 ## Georgetown University Library Information Technology
 ![LibraryIT Logo](LIT-logo.png)
+
+The Georgetown University Library relies on open source software to provide services to our patrons.
+
+When possible, we offer our solutions back to the library technology community.
+
 * [Our website](http://www.library.georgetown.edu/lit/code)
 * [Our GitHub Repositories](https://github.com/Georgetown-University-Libraries/georgetown-university-libraries.github.io)
 * [Our YouTube Channel](https://www.youtube.com/playlist?list=PLqP8OmiY4pxGIlEdnpkeJcA4JQ9VomDLP)
@@ -11,7 +16,7 @@
 [DigitalGeorgetown](https://repository.library.georgetown.edu/) is an institutional repository built on the [DSpace](http://dspace.org/) platform.
 
 #### DSpace Contributions
-- DSpace Contributions, Brady: [DSpace](https://github.com/DSpace/DSpace/pulls?utf8=%E2%9C%93&q=is%3Amerged+is%3Apr+author%3Aterrywbrady+user%3ADSpace+), [DSpace Angular](https://github.com/DSpace/DSpace-angular/pulls?utf8=%E2%9C%93&q=is%3Amerged+is%3Apr+author%3Aterrywbrady+user%3ADSpace+) 
+- DSpace Contributions, Brady: [DSpace](https://github.com/DSpace/DSpace/pulls?utf8=%E2%9C%93&q=is%3Amerged+is%3Apr+author%3Aterrywbrady+user%3ADSpace+), [DSpace Angular](https://github.com/DSpace/DSpace-angular/pulls?utf8=%E2%9C%93&q=is%3Amerged+is%3Apr+author%3Aterrywbrady+user%3ADSpace+), [DSpace Docker](https://github.com/DSpace-Labs/DSpace-Docker-Images/pulls?utf8=%E2%9C%93&q=is%3Amerged+is%3Apr+author%3Aterrywbrady+user%3ADSpace-Labs+)
 - DSpace Contributions, Marttila: [DSpace](https://github.com/DSpace/DSpace/pulls?utf8=%E2%9C%93&q=is%3Amerged+is%3Apr+author%3Amjmarttila+user%3ADSpace+), [DSpace Angular](https://github.com/DSpace/DSpace-angular/pulls?utf8=%E2%9C%93&q=is%3Amerged+is%3Apr+author%3Amjmarttila+user%3ADSpace+)  
 
 #### DSpace Related Features
@@ -37,7 +42,7 @@
 - [FileAnalyzer and Metadata Harvester](http://georgetown-university-libraries.github.io/File-Analyzer/)
 - [FileAnalyzer Test Data](https://github.com/Georgetown-University-Libraries/File-Analyzer-Test-Data)
 
-### ArchivesSpace Projects 
+### ArchivesSpace Projects
 
 The Georgetown University Library provides access to archival resources (coming soon) through the [ArchivesSpace](http://archivesspace.org/) platform.
 
